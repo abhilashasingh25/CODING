@@ -8,4 +8,4 @@ copy_list.reverse()
 if(copy_list == original_list):
     print("pallindrome")
 else:
-    print("not pallindrome")  
+    print("not pallindrome")
