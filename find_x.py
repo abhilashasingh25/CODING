@@ -8,3 +8,4 @@ for el in nums:
     if (el == x):
         print ("number found at index ", idx)
     idx +=1    
+
