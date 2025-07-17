@@ -8,4 +8,4 @@ I like programming in Java
 
 with open("practice.txt","w")as f:
     f.write("Hi everyone\n we are learning File I/O")
-    f.write("using Java\n I like programming in Java")    
+    f.write("\nusing Java\n I like programming in Java")    
